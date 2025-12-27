@@ -10,11 +10,11 @@
 </p>
 
 ### 🚀 About Me:
-- [cite_start]💼 Currently working as a **Data Management Officer** at **Banco BHD**[cite: 8, 9].
-- [cite_start]🛠️ Specialist in **administrative process automation** using Python and SQL[cite: 10, 45].
-- [cite_start]📊 Experienced in building **interactive dashboards** in Tableau to drive data-driven decisions[cite: 5, 18, 41].
-- [cite_start]🎓 Higher Technical Degree in **Software Development** from ITLA (Expected 2025)[cite: 22, 23].
-- [cite_start]📫 Reach me at: **[hanselalfonzo@gmail.com](mailto:hanselalfonzo@gmail.com)**[cite: 29].
+- 💼 Currently working as a **Data Management Officer** at **Banco BHD**.
+- 🛠️ Specialist in **administrative process automation** using Python and SQL.
+- 📊 Experienced in building **interactive dashboards** in Tableau to drive data-driven decisions.
+- 🎓 Higher Technical Degree in **Software Development** from ITLA (Expected 2025).
+- 📫 Reach me at: **[hanselalfonzo@gmail.com](mailto:hanselalfonzo@gmail.com)**.
 
 ---
 
@@ -34,15 +34,15 @@
 ---
 
 ### 📈 Professional Impact:
-- [cite_start]**Credit Card Assignment Bot:** Developed a Python-based application to automate credit card assignments to law offices, eliminating manual steps and improving efficiency[cite: 14].
-- [cite_start]**Internal Restructuring App:** Built an application to automate the internal credit restructuring process, enabling managers to handle cases more rapidly[cite: 15].
-- [cite_start]**Data Pipelines:** Designed and maintained reports and pipelines to monitor portfolio performance and assist management decision-making[cite: 12].
+- **Credit Card Assignment Bot:** Developed a Python-based application to automate credit card assignments to law offices, eliminating manual steps and improving efficiency.
+- **Internal Restructuring App:** Built an application to automate the internal credit restructuring process, enabling managers to handle cases more rapidly.
+- **Data Pipelines:** Designed and maintained reports and pipelines to monitor portfolio performance and assist management decision-making.
 
 ---
 
 ### 🗣️ Languages:
-- [cite_start]**Spanish:** Native[cite: 33].
-- [cite_start]**English:** Advanced[cite: 32].
+- **Spanish:** Native.
+- **English:** Advanced.
 - **Italian:** Currently Learning.
 
 ---
